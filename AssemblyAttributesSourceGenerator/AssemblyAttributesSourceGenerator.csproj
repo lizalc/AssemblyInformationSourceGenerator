@@ -1,4 +1,4 @@
-﻿<Project Sdk="Microsoft.NET.Sdk">
+<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
@@ -15,7 +15,7 @@
     <WarningsAsErrors>true</WarningsAsErrors>
     <!-- Invalid build warning, analyzers do not need a lib/ref folder -->
     <NoWarn>NU5128</NoWarn>
-    <Version>1.0.0</Version>
+    <Version>1.0.1</Version>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
     <Title>Assembly Attributes Source Generator</Title>
     <Authors>Liza Chevalier</Authors>
